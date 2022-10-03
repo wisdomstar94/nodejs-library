@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-library",
+  "version": "1.0.0",
+  "description": "node.js 라이브러리 레포지토리 입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "library",
+    "js"
+  ],
+  "author": "wisdomstar94@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
